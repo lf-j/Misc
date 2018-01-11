@@ -1,8 +1,8 @@
 ﻿レビュー履歴：「OPEN SOURCE AUDITS IN MERGER AND ACQUISITION TRANSACTIONS」　谷口
 
 2017年11月30日 14:59	レビュー版リリース（谷口）	./M&A_09112017_JP_review(Step1).docx
-2017年12月01日 12:48	福地さんレビュー			./M&A_09112017_JP_review(Step1)_fukuchi.docx
-2017年12月08日 17:48	工内さんレビュー			./M&A_09112017_JP_tani_pre-review2-by-kunai.docx
-2018年01月11日 08:49	谷口再レビュー				./M&A_09112017_JP_review(Step1)_fukuchi-kunai-taniguchi20180109.docx
-2018年01月11日 08:49	RC1版リリース				../RC/M&A_09112017_JP_RC1.docx
+2017年12月01日 12:48	福地さんレビュー	./M&A_09112017_JP_review(Step1)_fukuchi.docx
+2017年12月08日 17:48	工内さんレビュー	./M&A_09112017_JP_tani_pre-review2-by-kunai.docx
+2018年01月11日 08:49	谷口再レビュー		./M&A_09112017_JP_review(Step1)_fukuchi-kunai-taniguchi20180109.docx
+2018年01月11日 08:49	RC1版リリース		../RC/M&A_09112017_JP_RC1.docx
 
